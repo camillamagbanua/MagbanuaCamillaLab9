@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "402851659526",
+    "firebase_url": "https://magbanuacamillalab9-7cda8.firebaseio.com",
+    "project_id": "magbanuacamillalab9-7cda8",
+    "storage_bucket": "magbanuacamillalab9-7cda8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:402851659526:android:bd8e18119a5b1352",
+        "android_client_info": {
+          "package_name": "com.magbanua.camilla"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "402851659526-vm4qltl002s6t8s2kr6h5skhodili3l2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7xXisulfHcg5HfIaia-hV6BsGwsLYaR4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
